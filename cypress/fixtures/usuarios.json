@@ -1,0 +1,23 @@
+[
+        {
+            "email": "wayne.bruce@alura.com.br",
+            "fullName": "Bruce Wayne",
+            "userName": "batman",
+            "password": "alfred"
+        },
+        {
+            "email": "kent.clark@alura.com.br ",
+            "fullName": "Clark Kent",
+            "userName": "superman",
+            "password": "louislane"
+        },
+        {
+            "email": "prince.diana@alura.com.br",
+            "fullName": "Diana Prince",
+            "userName": "wonderwoman",
+            "password": "temicera"
+        }
+    ]  
+  
+
+  
