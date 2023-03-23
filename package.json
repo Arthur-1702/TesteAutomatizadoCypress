@@ -1,0 +1,14 @@
+{
+  "name": "aluracy",
+  "version": "1.0.0",
+  "description": "Primeiro projeto cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Arthur Araujo",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.8.1"
+  }
+}
